@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Super interested in Machine Learning, Deep Learning applied Technology
-Specialized in Statsitical Analysis, Financial Data Analysis
+- Super interested in Machine Learning, Deep Learning applied Technology
+- Specialized in Statsitical Analysis, Financial Data Analysis
 
 <!--
 **hakyung-park/hakyung-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
