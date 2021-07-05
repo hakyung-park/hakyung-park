@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am
 
 - Super interested in Machine Learning, Deep Learning applied Technology
 - Specialized in Statsitical Analysis, Financial Data Analysis
